@@ -1,0 +1,109 @@
+.settings_members {	
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+	
+	.settings_members-table {
+	border: 0.25px solid #0046E6;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 6px 4px 38px 4px rgba(0, 0, 0, 0.02);
+	box-shadow: 6px 4px 38px 4px rgba(0, 0, 0, 0.02);
+	border-radius: 10px;
+	width: 90%;
+	padding: 15px 0px;
+	margin: 50px 20px;
+	}
+	
+	.settings_members-table-top {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 0 25px;
+	}
+	
+	.settings_members-table-top h3 {
+	font-weight: 700;
+	}
+	
+	.settings_members-table-top-btn {
+	margin-left: auto;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	}
+	
+	.settings_members-table-top-btn-form {
+	width: 270px;
+	position: relative;
+	padding: 0 !important;
+	margin: 0 15px 0 0;
+	}
+	
+	.settings_members-table-top-btn-form input {
+	width: 100%;
+	height: 30px;
+	background: #F5F5F5;
+	border: 1px solid #DADADA;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border-radius: 4px;
+	padding: 5px 10px 5px 30px;
+	font-size: 0.9em;
+	color: #797979;
+	}
+	
+	.settings_members-table-top-btn-form img {
+	position: absolute;
+	top: 8px;
+	left: 6px;
+	width: 15px;
+	}
+	
+	.settings_members-table-top-btn button {
+	height: 30px;
+	border: 1px solid orange;
+	color: white;
+	background: orange;
+	width: 200px;
+	padding: 0px 15px;
+	font-size: 0.9em;
+	border-radius: 6px;
+	}
+	
+	.settings_members-table-main {
+	padding: 0 20px;
+	}
+	
+	.settings_members-table-main-action button {
+	border: 1px solid #DADADA;
+	border-radius: 4px;
+	padding: 5px;
+	margin-right: 10px;
+	background-color: white;
+	color: #797979;
+	}
+	
+	.settings_members-table-main-status {
+	color: #087F00;
+	}
+	
+	.settings_members-table table {
+	width: 100%;
+	}
+	
+	.settings_members-table table tr {
+	border-bottom: 0.75px solid #B5B5B5;
+	color: #0F123F;
+	font-size: 1em;
+	}
+	
+	.settings_members-table table th, .settings_members-table table td {
+	padding: 10px 0;
+	}
+	
+	.settings_members-table table th {
+	opacity: 0.56;
+	font-weight: 400;
+	text-transform: capitalize !important;
+	

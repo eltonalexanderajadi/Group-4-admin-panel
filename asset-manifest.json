@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Group-4-admin-panel/static/css/main.fe92432e.css",
+    "main.js": "/Group-4-admin-panel/static/js/main.24a9d774.js",
+    "static/media/pic1.png": "/Group-4-admin-panel/static/media/pic1.39fc2676a71c0be9ba9a.png",
+    "index.html": "/Group-4-admin-panel/index.html",
+    "main.fe92432e.css.map": "/Group-4-admin-panel/static/css/main.fe92432e.css.map",
+    "main.24a9d774.js.map": "/Group-4-admin-panel/static/js/main.24a9d774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe92432e.css",
+    "static/js/main.24a9d774.js"
+  ]
+}
